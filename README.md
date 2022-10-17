@@ -3,7 +3,7 @@
 ## Popis
 
 Tento program hýbe krokovým motorem
-> Hýbal se dost pomalu 
+> Moturek se roztocil, trochu vibroval
 
 
 ## Zdroje
