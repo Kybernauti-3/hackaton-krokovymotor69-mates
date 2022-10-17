@@ -4,5 +4,5 @@
 
 Tento program hýbe krokovým motorem
 > komentář
-- - odrazka
-- - dalsi odrazka
+- odrazka
+- dalsi odrazka
